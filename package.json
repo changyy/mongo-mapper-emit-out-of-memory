@@ -1,0 +1,16 @@
+{
+	"name":			"mongo-mapper-emit-out-of-memory",
+	"version":		"2014.11.28",
+	"repository":
+	{
+		"type":		"git",
+		"url":		"https://github.com/changyy/mongo-mapper-emit-out-of-memory.git"
+	},
+	"author": 		"Yuan-Yi Chang",
+	"main": 		"index.js",
+	"dependencies": {
+		"mongoose": 	"*",
+                "mongodb":	"*",
+		"async" :	"*"
+	}
+}
